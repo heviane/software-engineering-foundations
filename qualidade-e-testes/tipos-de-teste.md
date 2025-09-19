@@ -1,0 +1,3 @@
+# Tipos de Testes
+
+Unitário, Integração, E2E...
